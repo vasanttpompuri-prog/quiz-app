@@ -59,3 +59,7 @@ resetQuiz() → showQuestion() に戻る
   correct: 0, // 正解の選択肢インデックス（0始まり）
 }
 ```
+
+## GitHubリポジトリ
+
+https://github.com/vasanttpompuri-prog/quiz-app
